@@ -12,7 +12,7 @@ This repository contains the **official logo files** for Burning AI Token (BAIT)
 ## About BAIT
 Burning AI Token (BAIT) is a deflationary token powered by automated burning mechanisms.  
 Website: [https://burningaitoken.com](https://burningaitoken.com)  
-Email: burningaitoken@gmail.com  
+Email: admin@burningaitoken.com
 
 ---
 ✅ This repo is the official source for BAIT logo assets.
